@@ -1,9 +1,10 @@
 # Apple-Daily-Free-Login
 
 ## How to use
-1. goto [chrome://extensions/](chrome://extensions/)
-2. Click on [Load unpackaged extensions]
-3. Select directory folder
+1. Goto [chrome://extensions/](chrome://extensions/)
+2. Open developer mode
+3. Load unpackaged extensions
+4. Select directory folder
 
 ## Directory structure
 ```
