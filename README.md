@@ -1,6 +1,11 @@
 # Apple-Daily-Free-Login
 
-## Directory Structure
+## How to use
+1. goto [chrome://extensions/](chrome://extensions/)
+2. Click on [Load unpackaged extensions]
+3. Select directory folder
+
+## Directory structure
 ```
 .
 ├── README.md
