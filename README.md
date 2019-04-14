@@ -1,4 +1,5 @@
 # Apple-Daily-Free-Login
+蘋果日報網路訂閱制上路，免註冊免登入無料看到飽
 
 ## How to use
 1. Goto [chrome://extensions/](chrome://extensions/)
