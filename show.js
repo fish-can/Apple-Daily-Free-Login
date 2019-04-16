@@ -1,1 +1,1 @@
-$('.ndAritcle_headPic,.ndArticle_margin,.mediabox,#playerVideo,.articulum').show()
+$('.ndAritcle_headPic,.ndArticle_margin,.mediabox,#playerVideo,.articulum').show();
