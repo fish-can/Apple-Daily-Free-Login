@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "蘋果日報小助手",
-    "version": "1.0",
+    "version": "1.1",
     "description": "蘋果日報網路訂閱制上路，免註冊免登入無料看到飽",
     "icons": {
         "16": "icon16.png",
@@ -26,10 +26,6 @@
         }
     ],
     "permissions": [
-        "tabs",
-        "activeTab",
-        "webRequest",
-        "webRequestBlocking",
-        "<all_urls>"
+        "https://*.appledaily.com/*"
     ]
 }
